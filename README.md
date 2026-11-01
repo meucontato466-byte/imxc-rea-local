@@ -1,6 +1,6 @@
 # Projeto IMXC: investigação de firmware e integração local de câmeras próprias
 
-Prévia para revisão — 01/11/2026.
+Versão publicada — 01/11/2026.
 
 ## Objetivo
 
