@@ -1,0 +1,14 @@
+# Lista fechada de documentos desta previa
+*
+!.gitignore
+!README.md
+!HISTORICO.md
+!ARQUITETURA.md
+!METODOLOGIA.md
+!EXEMPLOS.md
+!HARDWARE.md
+!imagens/
+imagens/*
+!imagens/memoria-spi-nor.jpg
+!imagens/programador-ch341a.jpg
+!imagens/placa-camera.jpg

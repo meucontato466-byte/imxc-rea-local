@@ -52,4 +52,3 @@ No laboratório, a conta de análise foi mantida sem privilégios administrativo
 ![Detalhe da memória SPI NOR na placa](imagens/memoria-spi-nor.jpg)
 
 Esta entrega é documental e não constitui um pacote instalável. Os resultados descrevem os equipamentos e versões investigados; não demonstram compatibilidade universal, ausência de vulnerabilidades ou segurança absoluta.
-
